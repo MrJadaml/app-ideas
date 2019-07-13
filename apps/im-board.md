@@ -22,7 +22,7 @@ A hybrid work/entertainment todo app. Kick it off and it will randomly give you 
     - "Play video game" -- from pre set list of games they have.
 - Should have punishments when failing to complete activity
   - Adds money to your savings
-    - Future monitization could be investment pool (like Acorn app)
+    - Future monitization could be investment pool (like [Acorn app])
   - Donates to preselected charity of choice
   - Venmos money to friend with some message like "I'm too lazy to go out and do something today, maybe you can have fun on my behalf here is some $$"
     - Also could use this as a platform for advertising with little "via - I'm Board app (link)"
@@ -33,3 +33,7 @@ A hybrid work/entertainment todo app. Kick it off and it will randomly give you 
   - Should track addings to savings/charity
     - Should also have a little tax write-off for charity as a convenience feature
 
+
+### Resources 📚
+
+[Acorn app]: https://www.acorns.com/
