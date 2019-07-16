@@ -13,6 +13,8 @@ A general technology/feature testground workspace. Classic todo list, which shou
 
 ## Considerations
 
+Go through a few of the standard to-do intro apps for some of these langauges.
+
 *New Languages*
 - Go
 - Scala
