@@ -15,6 +15,8 @@ Should work offline
 
 Should save passages
 Should allow for sail logs to be linked to waypoints in passages
+Should have a google-maps like transit plotter/time calculator
+  Should try to replicate that UX (already familiar with people)
 
 Should sync with onboard sensors
   - Wind(s), Position, Speed, Depth, etc.
