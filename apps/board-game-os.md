@@ -1,6 +1,6 @@
-# Board Game OS
+# Table Top Board Game OS
 
-A "distro" for playing and building hybrid digital board games.
+A "distro" for playing and building hybrid digital table top board games.
 
 ## Features
 
@@ -38,10 +38,18 @@ Potential monitization of this I don't think would be though propritary hardware
 and reduce the player pool. I think the OS would also be free to encourage further adoption, also potentially OSS? I think the real monitizatioin of this
 is though an "App Store" at scale (hense no propritary hardware and free OS download)
 
+Mabye an option to be compatible with Steam??
 
 [Touch screen object interaction]
 
 [Yucata] does game mechanics/status tracking well. They would be an interesting resouce to look into for getting ideas on that end of things.
+
+### Tech
+
+[Arch], [Manjaro], [Debian] ??
+[Rust]
+[WebAssembly], [Wasmer]
+- https://medium.com/wasmer/running-webassembly-on-the-kernel-8e04761f1d8e
 
 ### Resources 📚
 
@@ -52,3 +60,5 @@ is though an "App Store" at scale (hense no propritary hardware and free OS down
 [PlayTable]: https://www.playtable.com/
 [Wyrmwood]: https://wyrmwoodgaming.com/furniture/
 [Touch screen object interaction]: https://www.instructables.com/id/Object-Interaction-With-Touchscreens/
+[WebAssembly]: https://webassembly.org
+[Wasmer]: https://wasmer.io/

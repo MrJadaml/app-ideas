@@ -12,6 +12,8 @@ Should link restaurant/services to order-in options for boaters
 Should let users see a global map showing "sister" or "partner" marinas/clubs
   - To see how to plan trips to take advantage of partner benifits
   - More populated the map, a better selling point for the Yacht Club
+Should provide a booking interface for charterable boats
+  - Boatsetter.com
 Should list services available at that marina/club
   - More universal platfrom for continuity among all marinas/clubs
 Should use the mapping-framework
@@ -19,6 +21,7 @@ Should use the mapping-framework
 ### Notes
 
 Make the name somehow related to the word Wasp :)
+The slip booking aspect would esentially be an Air bnb for dock slips.
 
 ### Resources 📚
 

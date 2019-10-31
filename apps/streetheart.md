@@ -8,6 +8,7 @@ Should be able to see local street art on a map
 Should be able to add new street art to map
 Should be able to see filtered art of just an artist, posted by a user, etc.
 Should have artist profiles
+Should allow people to post walls available for street art
 
 ### Notes
 
